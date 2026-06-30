@@ -164,28 +164,18 @@ Evaluation-and-Churn/
 └── requirements.txt
 
 
-Skills Demonstrated
-Python
-Pandas
-NumPy
-Scikit-learn
-Exploratory Data Analysis (EDA)
-Feature Engineering
-Data Cleaning
-Statistical Analysis
-Machine Learning
-Predictive Analytics
-Business Intelligence
-Data Storytelling
-Why this structure works
+# Skills Demonstrated
 
-This format mirrors how analytics projects are documented in consulting firms and data teams. It tells a clear story:
-
-What business problem were you solving?
-What data did you analyze?
-How did you analyze it?
-What did you discover?
-What recommendations did you make?
-What business value did the project deliver?
-
-A recruiter can understand your project in a few minutes without opening the notebook, while the notebook remains available for reviewing your technical implementation. This approach makes your repository more professional, easier to navigate, and more compelling to hiring managers.
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Data Cleaning
+- Statistical Analysis
+- Machine Learning
+- Predictive Analytics
+- Business Intelligence
+- Data Storytelling
+  
