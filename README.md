@@ -37,25 +37,25 @@ This project analyzes customer behavior, pricing, and consumption patterns to id
 
 # Project Overflow
 
-Client Data
+ Client Data
       │
       ▼
-Data Cleaning
+ Data Cleaning
       │
       ▼
-Exploratory Data Analysis
+ Exploratory Data Analysis
       │
       ▼
-Feature Engineering
+ Feature Engineering
       │
       ▼
-Model Development
+ Model Development
       │
       ▼
-Model Evaluation
+ Model Evaluation
       │
       ▼
-Business Recommendations
+ Business Recommendations
 
 # Data Cleaning
 
