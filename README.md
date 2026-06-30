@@ -101,7 +101,8 @@ Evaluation Metrics
 - Feature Importance
 
   # Key Result
-  | KPI                | Result    |
+
+| KPI                | Result    |
 | ------------------ | --------- |
 | Customers Analyzed | 14,606    |
 | Churn Rate         | **9.7%**  |
