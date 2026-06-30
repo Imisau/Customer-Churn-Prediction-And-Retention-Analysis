@@ -144,9 +144,7 @@ Contract-related variables significantly influenced churn probability.
 - Produced actionable recommendations to improve customer retention and support data-driven decision-making.
 
  # Repository Structure
-
-
-
+![](https://github.com/Imisau/Customer-Churn-Prediction-And-Retention-Analysis/blob/main/Repository%20%20Structure.png)
 
 # Skills Demonstrated
 
