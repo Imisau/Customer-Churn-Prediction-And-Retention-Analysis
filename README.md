@@ -164,4 +164,6 @@ Contract-related variables significantly influenced churn probability.
 - Predictive Analytics
 - Business Intelligence
 - Data Storytelling
+
+  ### Interact_with_complete_project [Here](https://github.com/Imisau/Evaluation-and-Churn-/blob/main/BCG%20PYTHON1.ipynb)
   
