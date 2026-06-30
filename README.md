@@ -145,23 +145,7 @@ Contract-related variables significantly influenced churn probability.
 
  # Repository Structure
 
-Evaluation-and-Churn/
-│
-├── data/
-│   ├── client_data.csv
-│   └── price_data.csv
-│
-├── notebooks/
-│   └── Customer_Churn_Analysis.ipynb
-│
-├── images/
-│   ├── churn_distribution.png
-│   ├── feature_importance.png
-│   ├── confusion_matrix.png
-│   └── roc_curve.png
-│
-├── README.md
-└── requirements.txt
+
 
 
 # Skills Demonstrated
