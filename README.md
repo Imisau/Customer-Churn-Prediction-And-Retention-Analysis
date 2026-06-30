@@ -100,6 +100,8 @@ Evaluation Metrics
 - F1 Score
 - Feature Importance
 
+![](https://github.com/Imisau/Customer-Churn-Prediction-And-Retention-Analysis/blob/main/Forest%20cls1.png)
+
   # Key Result
 
 | KPI                | Result    |
